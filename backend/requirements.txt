@@ -1,0 +1,11 @@
+Django
+djangorestframework
+django-cors-headers
+python-dotenv
+reportlab
+pypdf
+phonenumbers
+gunicorn
+whitenoise
+psycopg[binary]
+dj-database-url
