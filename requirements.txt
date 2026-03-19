@@ -1,6 +1,11 @@
-Django>=6.0.3
-python-dotenv
+Django
 djangorestframework
-psycopg2-binary
+django-cors-headers
+python-dotenv
+reportlab
+pypdf
+phonenumbers
 gunicorn
-corsheaders
+whitenoise
+psycopg[binary]
+dj-database-url
